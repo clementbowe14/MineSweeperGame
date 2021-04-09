@@ -1,8 +1,13 @@
-## Getting Started
+## Simple MineSweeper Game made in java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This was originally made to be used in the SHPE Java workshop but unfortunately we ran out of time. 
 
-## Folder Structure
+Classes:
+  MineSweeper: Contains all of the logic for the game
+  Main: Test class
+
+Please feel free to use this code however you like!
+
 
 The workspace contains two folders by default, where:
 
